@@ -1,0 +1,242 @@
+{
+  "shops": {
+    "shop": [
+      {
+        "name": "Casio Shop",
+        "description": "Genuine Casio watches! Pair watches for you and your special other! Golden watched for the successful gentlemen!",
+        "photo_name": "shop01",
+        "rating": "3",
+        "address": "78 Lê Trung Nghĩa 12 Tân Bình Hồ Chí Minh, Việt Nam",
+        "phone": "0902846996",
+        "website": "http://casioshop.vn/",
+        "open_time": "8:00",
+        "close_time": "22:00",
+        "region": "Hồ Chí Minh",
+        "long": "106.6485937",
+        "lat": "10.8009554",
+        "products": {
+          "product": [
+            {
+              "pname": "CASIO EFR-520L-7AV",
+              "desc": "Code: EDIFICE EFR-520L-7AV",
+              "photo": "shop01_01"
+            },
+            {
+              "pname": "CASIO EFR 533D 1AV",
+              "desc": "Code: EFR 533D 1AVDF",
+              "photo": "shop01_02"
+            },
+            {
+              "pname": "COMBO EF 530P 7AV - SHN 5003P 7A",
+              "desc": "Code: EF 530P 7AV - SHN 5003P 7",
+              "photo": "shop01_03"
+            },
+            {
+              "pname": "CASIO SHN 5010L 4A2V",
+              "desc": "Code: SHN 5010L 4A2VDF",
+              "photo": "shop01_04"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Flower Box",
+        "description": "It is not easy to choose the perfect flower for special occasions. Come to us for the rescue!",
+        "photo_name": "shop02",
+        "rating": "4",
+        "address": "101 Hoàng Hoa Thám 13 Tân Bình 13 Tân Bình Hồ Chí Minh, Việt Nam",
+        "phone": "0908565525",
+        "website": "http://flowerbox.vn/",
+        "open_time": "8:00",
+        "close_time": "20:00",
+        "region": "Hồ Chí Minh",
+        "long": "106.638769",
+        "lat": "10.8065797",
+        "products": {
+          "product": [
+            {
+              "pname": "Love Flowers TY084",
+              "desc": "Code: TY084",
+              "photo": "shop02_01"
+            },
+            {
+              "pname": "Love Flowers TY027",
+              "desc": "Code: TY027",
+              "photo": "shop02_02"
+            },
+            {
+              "pname": "Birthday Flowers SN091",
+              "desc": "Code: SN091",
+              "photo": "shop02_03"
+            },
+            {
+              "pname": "Event Flowers SK001",
+              "desc": "Code: SK001",
+              "photo": "shop02_04"
+            }
+          ]
+        }
+      },
+      {
+        "name": "XDEAL",
+        "description": "Best prices. You can find great deals with us! Do not wait, act now!",
+        "photo_name": "shop03",
+        "rating": "2",
+        "address": "595 Sư Vạn Hạnh 13 Quận 10 Hồ Chí Minh, Việt Nam",
+        "phone": "0905050053",
+        "website": "http://xdeal.vn/",
+        "open_time": "8:00",
+        "close_time": "21:30",
+        "region": "Hồ Chí Minh",
+        "long": "106.6740232",
+        "lat": "10.7816721",
+        "products": {
+          "product": [
+            {
+              "pname": "Cool Coat DSOUARED",
+              "desc": "Code: HT70",
+              "photo": "shop03_01"
+            },
+            {
+              "pname": "Korean shoes F5 Fashion",
+              "desc": "Code: A158",
+              "photo": "shop03_01"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Duyên Dáng Contact Lens",
+        "description": "Specialized in contact lenses as well as fashionable glasses. Take care of your eyes with a touch of beauty!",
+        "photo_name": "shop04",
+        "rating": "5",
+        "address": "Hẻm 29 Xô Viết Nghệ Tỉnh An Hội Ninh Kiều Cần Thơ, Việt Nam",
+        "phone": "0932031377",
+        "website": "http://www.duyendanglens.com/",
+        "open_time": "Open 24h",
+        "close_time": "Open cửa 24h",
+        "region": "Cần Thơ",
+        "long": "105.783653",
+        "lat": "10.0384589",
+        "products": {
+          "product": [
+            {
+              "pname": "Poppy eff.18",
+              "desc": "Code: DDS00119",
+              "photo": "shop04_01"
+            },
+            {
+              "pname": "nudy eff.18",
+              "desc": "Code: DDS00114",
+              "photo": "shop04_02"
+            },
+            {
+              "pname": "Hello Kitty eff.18",
+              "desc": "Code: DDS00107",
+              "photo": "shop04_03"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Giày Van's Huế - giày VNXK Thời trang giá rẻ",
+        "description": "Best shoes in the business. We have shoes for everyone of all genders and ages. Just come and enjoy!",
+        "photo_name": "shop05",
+        "rating": "0",
+        "address": "244 Tôn Thất Thiệp Thừa thiên Huế Thừa Thiên Huế Việt Nam",
+        "phone": "0964733190",
+        "website": "https://www.facebook.com/giayvans.hue",
+        "open_time": "Open 24h",
+        "close_time": "Open 24h",
+        "region": "Huế",
+        "long": "107.5619702",
+        "lat": "16.4753011",
+        "products": {
+          "product": [
+            {
+              "pname": "Chauffeur SF",
+              "desc": "Color: incense",
+              "photo": "shop05_01"
+            },
+            {
+              "pname": "Slip-On SF",
+              "desc": "Color: palm",
+              "photo": "shop05_02"
+            },
+            {
+              "pname": "Boys Drop V Pocket Raglan T-Shirt",
+              "desc": "Color: Exblusive/Oatmeal",
+              "photo": "shop05_03"
+            },
+            {
+              "pname": "KIDS GOLDEN COAST SK8-HI ZIP",
+              "desc": "Color: olympian blue/burnt ochre",
+              "photo": "shop05_04"
+            }
+          ]
+        }
+      },
+      {
+        "name": "3bshop",
+        "description": "Simply a gift shops. You can buy gifts at our store in a bulk if you want. So convenient!",
+        "photo_name": "shop06",
+        "rating": "2",
+        "address": "Phú đa- Đức Thượng- Hoài Đức- Hà Nội",
+        "phone": "01658961797",
+        "website": "http://3bshop.net/",
+        "open_time": "Open 24h",
+        "close_time": "Open 24h",
+        "region": "Hà Nội",
+        "long": "105.6946403",
+        "lat": "21.0753358",
+        "products": {
+          "product": [
+            {
+              "pname": "Vi",
+              "desc": "Code: 297",
+              "photo": "shop06_01"
+            },
+            {
+              "pname": "Mabu",
+              "desc": "Code: 287",
+              "photo": "shop06_02"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Habeco",
+        "description": "Best beverage shop in Ha Noi. There are alcohol for adults, soft drinks for children and even more! Check us out! ",
+        "photo_name": "shop07",
+        "rating": "3",
+        "address": "183 Hoàng Hoa Thám, Ba Đình, Hà nội",
+        "phone": "0438453843",
+        "website": "http://www.habeco.com.vn/",
+        "open_time": "Open 24h",
+        "close_time": "Open 24h",
+        "region": "Hà Nội",
+        "long": "105.8225044",
+        "lat": "21.0415653",
+        "products": {
+          "product": [
+            {
+              "pname": "Cherry Wine",
+              "desc": "Bottle volume: 750ml",
+              "photo": "shop07_01"
+            },
+            {
+              "pname": "Coffee Wine",
+              "desc": "Bottle volume: 750ml",
+              "photo": "shop07_02"
+            },
+            {
+              "pname": "330ml Beer Cans",
+              "desc": "Can volume: 330ml",
+              "photo": "shop07_03"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

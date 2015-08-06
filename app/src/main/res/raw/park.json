@@ -1,0 +1,96 @@
+{
+  "parks": {
+    "park": [
+      {
+        "name": "Công viên Bách thảo",
+        "description": "Opened in 1890. We are one of the oldest parks in Vietnam. Located near the city center, our park can easily be found if you are looking for a place to be one with nature",
+        "photo_name": "park01",
+        "rating": "4",
+        "address": "Hoàng Hoa Thám, Ngọc Hà, Ba Đình, Hà Nội, Việt Nam",
+        "phone": "No Phone Number",
+        "website": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_b%C3%A1ch_th%E1%BA%A3o_H%C3%A0_N%E1%BB%99i",
+        "open_time": "6:00",
+        "close_time": "18:00",
+        "region": "Hà Nội",
+        "long": "105.831969",
+        "lat": "21.041828",
+        "ticket_price": "4000"
+      },
+      {
+        "name": "Công viên Thủ Lệ",
+        "description": "Opened in 1975, our park is one of the best ones in Ha Noi. We offer a wide variety of trees in a vast area for you to submerge yourself in!",
+        "photo_name": "park02",
+        "rating": "2",
+        "address": "Kim Mã, Ngọc Khánh, Ba Đình, Hà Nội, Việt Nam",
+        "phone": "No Phone Number",
+        "website": "https://vi.wikipedia.org/wiki/C%C3%B4ng_vi%C3%AAn_Th%E1%BB%A7_L%E1%BB%87",
+        "open_time": "8:00",
+        "close_time": "18:00",
+        "region": "Hà Nội",
+        "long": "105.807758",
+        "lat": "21.031087",
+        "ticket_price": "10000"
+      },
+      {
+        "name": "Công Viên Kim Đồng",
+        "description": "We have 2 branches in Ha Noi and Hue. Please visit the nearest branch to have a one of a kind experience in our park.",
+        "photo_name": "park03",
+        "rating": "3",
+        "address": "Hà Nội, Huế, Việt Nam",
+        "phone": "84543823579",
+        "website": "https://www.facebook.com/pages/C%C3%B4ng-Vi%C3%AAn-Kim-%C4%90%E1%BB%93ng/503248666407403",
+        "open_time": "8:00",
+        "close_time": "18:00",
+        "region": "Huế",
+        "long": "107.587334",
+        "lat": "16.4622377",
+        "ticket_price": "0"
+      },
+      {
+        "name": "Thảo Cầm Viên",
+        "description": "We are both a park and a zoo! The best of both worlds come together! Enjoy the relaxing shades of the trees while watching animals in their daily life!",
+        "photo_name": "park04",
+        "rating": "5",
+        "address": "02 Nguyễn Bỉnh Khiêm, Bến Nghé, Hồ Chí Minh, Việt Nam",
+        "phone": "84838293728",
+        "website": "http://www.saigonzoo.net/",
+        "open_time": "7:00",
+        "close_time": "17:00",
+        "region": "Hồ Chí Minh",
+        "long": "106.6972289",
+        "lat": "10.7608532",
+        "ticket_price": "50000"
+      },
+      {
+        "name": "Công Viên Văn Hoá Miền Tây",
+        "description": "We offer both the close-to-nature feeling of a park and the cultural atmosphere of Southwestern Viet Nam. Just come and see for yourself!",
+        "photo_name": "park05",
+        "rating": "4",
+        "address": "An Thới, Ninh Kiều, Cần Thơ, Việt Nam",
+        "phone": "847103822169",
+        "website": " ",
+        "open_time": "7:00",
+        "close_time": "18:00",
+        "region": "Cần Thơ",
+        "long": "105.7645055",
+        "lat": "10.0521223",
+        "ticket_price": "40000"
+      },
+      {
+        "name": "Công viên Ninh Kiều",
+        "description": "Established in the 19th century. We are also a small harbor where you can have a retrospective moment about the old Southwestern Vietnam.",
+        "photo_name": "park06",
+        "rating": "5",
+        "address": "Hai Bà Trưng, Tân An, Ninh Kiều, Cần Thơ, Việt Nam",
+        "phone": "847103822169",
+        "website": "https://vi.wikipedia.org/wiki/B%E1%BA%BFn_Ninh_Ki%E1%BB%81u",
+        "open_time": "Open 24h",
+        "close_time": "Open 24h",
+        "region": "Cần Thơ",
+        "long": "105.7811996",
+        "lat": "10.0331486",
+        "ticket_price": "0"
+      }
+    ]
+  }
+}

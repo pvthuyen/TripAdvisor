@@ -1,0 +1,230 @@
+{
+  "hotels": {
+    "hotel": [
+      {
+        "name": "Hanoi Posh Hotel",
+        "description": "A hotel of top notch quality in Ha Noi. You will feel right at home when staying with us. Opening all day long!!!",
+        "photo_name": "hotel01",
+        "rating": "4",
+        "address": "4A Hàng Giấy st, Hoan Kiem dist, Hanoi",
+        "phone": "84439276088",
+        "website": "http://hanoiposhhotel.com/",
+        "open_time": "Open 24h",
+        "close_time": "Open 24h",
+        "region": "Hà Nội",
+        "long": "105.8476035",
+        "lat": "21.0364186",
+        "room_types": {
+          "room_type": [
+            {
+              "rname": "Standard Room",
+              "info": "There are single beds with a window",
+              "desc": "The room is 22m2 and available on 5th and 6th floors. It is for 3 persons.",
+              "photo": "hotel01_01",
+              "price": "42000"
+            },
+            {
+              "rname": "Family Room",
+              "info": "There are one double bed and one single bed",
+              "desc": "The room is 38 m2 wide and available on the 6th, 7th and 8th floors. It is for 4 persons(parents with 2 children).",
+              "photo": "hotel01_02",
+              "price": "75000"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Khách Sạn Morning Star",
+        "description": "Just the perfect place for you to stay when visiting Ha Noi. We have everything that you want and more. Always opening waiting for you.",
+        "photo_name": "hotel02",
+        "rating": "3",
+        "address": "Số 10 Hàng Hành, Quận Hoàn Kiếm, Hanoi",
+        "phone": "84438285581",
+        "website": "http://morningstarhotel.com.vn/",
+        "open_time": "Open 24h",
+        "close_time": "Open 24h",
+        "region": "Hà Nội",
+        "long": "105.8476035",
+        "lat": "21.0364186",
+        "room_types": {
+          "room_type": [
+            {
+              "rname": "Standard Room",
+              "info": "Baby-sitting service. Fresh Daily Juice.",
+              "desc": " ",
+              "photo": "hotel02_01",
+              "price": "30000"
+            },
+            {
+              "rname": "Lake View",
+              "info": "Baby-sitting service. Fresh Daily Juice.",
+              "desc": " ",
+              "photo": "hotel02_02",
+              "price": "55000"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Khách sạn Duy Tân",
+        "description": "If you want to find a place to stay when visiting the beautiful city of Hue, just come to us. Our website will be up soon so keep your eyes peeled!",
+        "photo_name": "hotel03",
+        "rating": "5",
+        "address": "12 Hung Vuong St., Hue City, Vietnam",
+        "phone": "84543825001",
+        "website": " ",
+        "open_time": "Open 24h",
+        "close_time": "Open 24h",
+        "region": "Huế",
+        "long": "107.5917868",
+        "lat": "16.4657379",
+        "room_types": {
+          "room_type": [
+            {
+              "rname": "Standard Room",
+              "info": "Mini-bar, Đông hồ báo thức.",
+              "desc": "Số lượng phòng: 6 Diện tích: 20 m2",
+              "photo": "hotel03_01",
+              "price": "500000"
+            },
+            {
+              "rname": "Suite",
+              "info": "Mini-bar, Đông hồ báo thức.",
+              "desc": "Số lượng phòng: 3 Diện tích: 64 m2",
+              "photo": "hotel02_02",
+              "price": "1800000"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Valentine Hotel Hue",
+        "description": "Where love blooms. Come to our hotel and enjoy the most romantic experience you ever have when coming to Hue!",
+        "photo_name": "hotel04",
+        "rating": "3",
+        "address": "7/64 Nguyen Cong Tru Str, Hue, Vietnam",
+        "phone": "84543817665",
+        "website": "http://www.valentinehotelhue.com/",
+        "open_time": "Open 24h",
+        "close_time": "Open 24h",
+        "region": "Huế",
+        "long": "107.6009471",
+        "lat": "16.4724624",
+        "room_types": {
+          "room_type": [
+            {
+              "rname": "Standard Room",
+              "info": "Daily continental breakfast. ",
+              "desc": "Number of bed: 1 Double bed or 2 Single beds ",
+              "photo": "hotel04_01",
+              "price": "18000"
+            },
+            {
+              "rname": "FAMILY ROOM",
+              "info": "Daily continental breakfast. ",
+              "desc": "Number of beds: 2 double beds",
+              "photo": "hotel04_02",
+              "price": "30000"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Arise Hotel",
+        "description": "Our lodgings offer a retrospective feel of the old Saigon as well as the dynamic feeling of one of the biggest city in Viet Nam. Come and enjoy!",
+        "photo_name": "hotel05",
+        "rating": "4",
+        "address": "7/9 Nguyen Trai St., Ben Thanh Ward District 1, HCMC",
+        "phone": "84839260578",
+        "website": "http://www.arieshotel.com.vn/",
+        "open_time": "Open 24h",
+        "close_time": "Open 24h",
+        "region": "Hồ Chí Minh",
+        "long": "106.6934694",
+        "lat": "10.7709372",
+        "room_types": {
+          "room_type": [
+            {
+              "rname": "Standard Room",
+              "info": "No window, double bed, polished timber floor, ceiling fan, coffee/ tea maker and a marble bathroom with shower.",
+              "desc": "Room Size: 18 Sq m ",
+              "photo": "hotel05_01",
+              "price": "20000"
+            },
+            {
+              "rname": "Apartment Room",
+              "info": "Comfortable sofa, kitchen and sleeping areas separates to makes for an elegant, lavishly appointed yet homely atmosphere.",
+              "desc": "Room Size: 50 Sq m",
+              "photo": "hotel05_02",
+              "price": "30000"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Hotel Majestic",
+        "description": "Simply majestic. Noone can deny our professional yet heart warming service. You will feel both like a king and a close family member when staying with us.",
+        "photo_name": "hotel06",
+        "rating": "4",
+        "address": "1 Đồng Khởi, Bến Nghé, Hồ Chí Minh, Việt Nam",
+        "phone": "84838295517",
+        "website": "http://www.majesticsaigon.com.vn/",
+        "open_time": "Open 24h",
+        "close_time": "Open 24h",
+        "region": "Hồ Chí Minh",
+        "long": "106.7049502",
+        "lat": "10.7721419",
+        "room_types": {
+          "room_type": [
+            {
+              "rname": "Colonial Deluxe",
+              "info": "Our Colonial rooms are elegant but also integrate innovative elements; they are very comfortable and always live up to the expectations since 1925. ",
+              "desc": "Total area: 35m2 ",
+              "photo": "hotel06_01",
+              "price": "140000"
+            },
+            {
+              "rname": "Colonial Pool Deluxe",
+              "info": "Our Colonial Pool Deluxe are not olny elegant but also integrate innovative elements; they are very comfortable and always live up to the expectations since 1925. ",
+              "desc": "Total area: 40m2",
+              "photo": "hotel06_02",
+              "price": "155000"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Tay Do Hotel",
+        "description": "Can Tho is the biggest city of South Western Viet Nam. Enjoy your stay in our hotel while exploring this wonderful city! We now offer the Deluxe Suite at half price!",
+        "photo_name": "hotel07",
+        "rating": "3",
+        "address": "61 Châu Văn Liêm, An Lạc, Ninh Kiều, Cần Thơ , Việt Nam",
+        "phone": "847103815316",
+        "website": "http://www.taydohotel.com.vn/",
+        "open_time": "Open 24h",
+        "close_time": "Open 24h",
+        "region": "Cần Thơ",
+        "long": "105.7849278",
+        "lat": "10.0309614",
+        "room_types": {
+          "room_type": [
+            {
+              "rname": "Deluxe suite",
+              "info": "Include Breakfasts",
+              "desc": "Room for 1 to 2 people",
+              "photo": "hotel07_01",
+              "price": "25000"
+            },
+            {
+              "rname": "Superior",
+              "info": "Include Breakfasts",
+              "desc": "Room for 1 to 3 people",
+              "photo": "hotel07_02",
+              "price": "30000"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

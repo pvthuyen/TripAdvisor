@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TripAdvisor</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="findByCategory">Filter by category</string>
+    <string name="nearbyPlaces">Show nearby places</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="hotel">Hotel</string>
+    <string name="park">Park</string>
+    <string name="shop">Shop</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="theater">Theater / Museum</string>
+    <string name="title_activity_place_list">PlaceListActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="description">Description</string>
+    <string name="title_activity_auxiliary">AuxiliaryActivity</string>
+    <string name="title_activity_new_place">NewPlaceActivity</string>
+    <string name="title_activity_review">ReviewActivity</string>
+    <string name="FacebookSDKKey">ga0RGNYHvNM5d0SLGQfpQWAPGJ8=</string>
+    <string name="FacebookAppID">429334357253447</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+</resources>
